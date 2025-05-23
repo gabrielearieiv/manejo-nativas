@@ -15,4 +15,4 @@ A disciplina aborda conceitos e ferramentas fundamentais para o manejo de vegeta
 - Métodos de **prognose florestal** (Wahlenberg, razão de movimentação, matriz de transição)
 
 Este repositório tem finalidade educacional e reflete meu processo de aprendizagem em aplicar programação ao contexto florestal.
-Scripts utilizados na disciplina deManejo de Florestas Nativas, ministrada pelo Prof. Cláudio Roberto Thiersch, na Universidade Federal de São Carlos.
+Scripts utilizados na disciplina de Manejo de Florestas Nativas, ministrada pelo Prof. Cláudio Roberto Thiersch, na Universidade Federal de São Carlos.
